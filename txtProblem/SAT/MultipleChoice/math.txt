@@ -1,0 +1,44 @@
+#3. What is the average (arithmetic mean) of all the multiples of ten from 10 to 190 inclusive?
+#A. 90 
+#B. 95 
+#C. 100 
+#D. 105 
+#E. 110
+_TYPE_
+MultipleChoice
+_LEVEL_
+3
+_COVERAGE_
+Arithmetic
+_TIME_
+5/2/2012
+_AUTHOR_
+CityU
+_CREATER_
+andy
+_LABEL_
+2012 American SAT
+_VARIABLE_
+integer a;
+integer b;
+integer a0;
+integer a1;
+integer a2;
+integer a3;
+integer a4;
+_GENERATOR_
+a=r.RandomInt(1,5)*10;
+b=r.RandomInt(15,20)*10;
+a0=(a+b)/2;
+a1=a0;
+a2=a0+2;
+a3=a0+3;
+a4=a0+4;
+_OPTION_
+ It is $a0$ & It is $a1$ $$ It is $a2$ & It is $a3$ & It is $a4$
+_PROBLEM_
+What is the average (arithmetic mean) of all the multiples of ten from $a$ to $b$ inclusive?
+_COMMENT_
+comment by famous instructors
+_RATING_
+4.5

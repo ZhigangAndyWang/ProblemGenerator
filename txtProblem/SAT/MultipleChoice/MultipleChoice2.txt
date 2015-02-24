@@ -1,0 +1,35 @@
+#1 plus 1=? A.2 B.3 C.4 D.5
+_TYPE_
+MultipleChoice
+_LEVEL_
+3
+_COVERAGE_
+1
+2
+_TIME_
+3/2/2012
+_AUTHOR_
+CityU
+_CREATER_
+user1
+_LABEL_
+2012 American SAT
+_OPTION_
+_VARIABLE_
+double a;
+double b;
+FalseAnswer false1
+FalseAnswer false2
+FalseAnswer false3
+CorrectAnswer correct1	//其实4个的type可以考虑都弄成String, 具体以后做数学再说
+_GENERATOR_
+FalseAnswer false1=xxxx;
+FalseAnswer false2=functionXXXXX;
+FalseAnswer false3=fun2XXXXX;
+CorrectAnswer correct1=kdfjlsdkfj; //接下来rearrange 这些事我们的problemGenerator来处理
+_PROBLEM_
+$a$ plus $b$=?
+_COMMENT_
+comment by famous instructors
+_RATING_
+4.5

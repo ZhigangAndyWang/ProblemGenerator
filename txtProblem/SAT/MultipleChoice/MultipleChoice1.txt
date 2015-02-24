@@ -1,0 +1,29 @@
+#Look, who is coming?　　-___ must be our English teacher.
+#A. She B. He C. It D. This
+_TYPE_
+MultipleChoice
+_LEVEL_
+3
+_COVERAGE_
+1
+2
+_TIME_
+3/2/2012
+_AUTHOR_
+CityU
+_CREATER_
+user1
+_LABEL_
+2012 American SAT
+_OPTION_
+It $$ She & He & This
+_VARIABLE_
+_GENERATOR_
+_PROBLEM_
+Look, who is coming?　　-___ must be our English teacher.
+wow i am line 2
+_ANSWER_
+_COMMENT_
+comment by famous instructors
+_RATING_
+4.5
